@@ -1,7 +1,7 @@
 {
   "name": "pipedrive",
   "version": "3.0.2",
-  "description": "Pipedrive REST client for NodeJS",
+  "description": "Pipedrive REST client for NodeJS - fix error handling related to auth",
   "keywords": [
     "pipedrive",
     "CRM",
@@ -12,14 +12,14 @@
     "pipeline",
     "sales pipeline"
   ],
-  "homepage": "https://github.com/pipedrive/client-nodejs",
+  "homepage": "https://github.com/rhases/pipedrive-client-nodejs-rhases-fork",
   "main": "./lib/Pipedrive",
   "engines": {
     "node": ">= 0.8.x"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/pipedrive/client-nodejs.git"
+    "url": "http://github.com/rhases/pipedrive-client-nodejs-rhases-fork.git"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test/unit"
