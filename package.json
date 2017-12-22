@@ -1,6 +1,6 @@
 {
   "name": "rh-pipedrive",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "description": "Pipedrive REST client for NodeJS - fix error handling related to auth",
   "keywords": [
     "pipedrive",
